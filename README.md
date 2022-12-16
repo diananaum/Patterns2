@@ -1,1 +1,1 @@
-## Patterns [![Build status](https://ci.appveyor.com/api/projects/status/d47g620vri1v0o36?svg=true)](https://ci.appveyor.com/project/diananaum/patterns)
+## Patterns [![Build status](https://ci.appveyor.com/api/projects/status/4r4i6rn7en7rgtpm?svg=true)](https://ci.appveyor.com/project/diananaum/patterns)
